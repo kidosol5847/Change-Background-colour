@@ -7,4 +7,3 @@ function changecolor() {
     let a = Math.floor(Math.random()*colour.length);
     bodybcg.style.backgroundColor = colour[a];
 }
-console.log('hello');
